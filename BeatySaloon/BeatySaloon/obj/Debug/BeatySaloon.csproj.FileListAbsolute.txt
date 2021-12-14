@@ -1,0 +1,17 @@
+C:\Users\Grigori\Desktop\BeatySaloon\BeatySaloon\obj\Debug\BeatySaloon.csproj.AssemblyReference.cache
+C:\Users\Grigori\Desktop\BeatySaloon\BeatySaloon\obj\Debug\MainWindow.g.cs
+C:\Users\Grigori\Desktop\BeatySaloon\BeatySaloon\obj\Debug\App.g.cs
+C:\Users\Grigori\Desktop\BeatySaloon\BeatySaloon\obj\Debug\BeatySaloon_MarkupCompile.cache
+C:\Users\Grigori\Desktop\BeatySaloon\BeatySaloon\obj\Debug\BeatySaloon_MarkupCompile.lref
+C:\Users\Grigori\Desktop\BeatySaloon\BeatySaloon\bin\Debug\BeatySaloon.exe.config
+C:\Users\Grigori\Desktop\BeatySaloon\BeatySaloon\bin\Debug\BeatySaloon.exe
+C:\Users\Grigori\Desktop\BeatySaloon\BeatySaloon\bin\Debug\BeatySaloon.pdb
+C:\Users\Grigori\Desktop\BeatySaloon\BeatySaloon\obj\Debug\SecondWindow.g.cs
+C:\Users\Grigori\Desktop\BeatySaloon\BeatySaloon\obj\Debug\MainWindow.baml
+C:\Users\Grigori\Desktop\BeatySaloon\BeatySaloon\obj\Debug\SecondWindow.baml
+C:\Users\Grigori\Desktop\BeatySaloon\BeatySaloon\obj\Debug\BeatySaloon.g.resources
+C:\Users\Grigori\Desktop\BeatySaloon\BeatySaloon\obj\Debug\BeatySaloon.Properties.Resources.resources
+C:\Users\Grigori\Desktop\BeatySaloon\BeatySaloon\obj\Debug\BeatySaloon.csproj.GenerateResource.cache
+C:\Users\Grigori\Desktop\BeatySaloon\BeatySaloon\obj\Debug\BeatySaloon.csproj.CoreCompileInputs.cache
+C:\Users\Grigori\Desktop\BeatySaloon\BeatySaloon\obj\Debug\BeatySaloon.exe
+C:\Users\Grigori\Desktop\BeatySaloon\BeatySaloon\obj\Debug\BeatySaloon.pdb
